@@ -1,0 +1,5 @@
+n1=input()
+n2=input()
+p=float(n1) * float(n2)
+m=format(p,".2f")
+print(m)
